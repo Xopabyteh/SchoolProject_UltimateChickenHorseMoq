@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 244045817bfe2084ea57aadd92594e9f, type: 3}
+  m_Name: Spinning Saw
+  m_EditorClassIdentifier: 
+  WorldPrefab: {fileID: 1837080180631134225, guid: d9fc6bdc3025a7a4d96072755ec700fb, type: 3}
+  BoxItemPrefab: {fileID: 3337460191360867485, guid: d9ebd1de5d286cc4f8572ec53df14d90, type: 3}

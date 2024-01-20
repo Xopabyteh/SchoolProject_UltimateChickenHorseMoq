@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 244045817bfe2084ea57aadd92594e9f, type: 3}
+  m_Name: Crossbow
+  m_EditorClassIdentifier: 
+  WorldPrefab: {fileID: 6654861250108762710, guid: 39fa09f5e0fbf1d44be44215f72ccb20, type: 3}
+  BoxItemPrefab: {fileID: 8597984298181365248, guid: 73355388ced5a364b80a4b567e6b3e16, type: 3}

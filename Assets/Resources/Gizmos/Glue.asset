@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 244045817bfe2084ea57aadd92594e9f, type: 3}
+  m_Name: Glue
+  m_EditorClassIdentifier: 
+  WorldPrefab: {fileID: 921717195541019573, guid: c69df6d67a9f3f1419af21baf1ef6173, type: 3}
+  BoxItemPrefab: {fileID: 9049760001783105922, guid: 6465ad49c9c47014f9b09c5a1f76cdd5, type: 3}

@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 244045817bfe2084ea57aadd92594e9f, type: 3}
+  m_Name: WdBlock1x2
+  m_EditorClassIdentifier: 
+  WorldPrefab: {fileID: 6547013438519467212, guid: 463a8f699a10183409ae75023341cd31, type: 3}
+  BoxItemPrefab: {fileID: 7704711149461922111, guid: e2d07f218d5d0fb4da7c639de9f0cccf, type: 3}
